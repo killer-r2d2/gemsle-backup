@@ -1,0 +1,12 @@
+node_modules
+.nuxt
+.output
+.git
+*.log
+content
+public
+app
+scripts
+assets-src
+DEPLOY.md
+README.md

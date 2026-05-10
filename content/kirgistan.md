@@ -1,0 +1,80 @@
+---
+title: Kirgistan
+description: ""
+slug: kirgistan
+legacy_slug: kirgistan
+canonical: true
+section: "Motorrad-Reisen"
+trip: Seidenstrasse 2017
+breadcrumb:
+  - "Motorrad-Reisen"
+  - Seidenstrasse 2017
+  - Berichte
+  - Kirgistan
+order: 60
+gallery:
+  - gallery/001_uhwmhfrb.jpg
+  - gallery/001_3js38qxf.jpg
+  - gallery/001_gqse7296.jpg
+  - gallery/014_6qqrjxgz.jpg
+  - gallery/017_j4xytj5w.jpg
+  - gallery/018_ryefhabt.jpg
+  - gallery/019_2yvjzcms.jpg
+  - gallery/021_7pgrozr6.jpg
+  - gallery/026_2sj4tzlx.jpg
+  - gallery/030_lwn9nupv.jpg
+  - gallery/033_fxpl1x06.jpg
+  - gallery/035_h5r42d7r.jpg
+  - gallery/039_67coq6z3.jpg
+  - gallery/043_cyx3pd4c.jpg
+  - gallery/045_zkcra654.jpg
+  - gallery/049_sdmo7hv7.jpg
+  - gallery/053_ov2gi158.jpg
+  - gallery/059_xl93zxh4.jpg
+  - gallery/060_0e4h0gh0.jpg
+  - "gallery/066--1024x768-.jpg"
+  - gallery/073.jpg
+  - gallery/002_27vckbvv.jpg
+  - gallery/009_2qftaoux.jpg
+  - gallery/012_f3tox24v.jpg
+  - gallery/015_vhntcd67.jpg
+  - gallery/016_e2da6sol.jpg
+  - gallery/018_qe09hotc.jpg
+  - gallery/019_j62xms30.jpg
+  - gallery/025_2zh2o2ip.jpg
+  - gallery/028_j7e8ajrm.jpg
+  - gallery/005_f8yj1vd7.jpg
+  - gallery/008_nb96b9lm.jpg
+  - gallery/011_zd86bmxo.jpg
+  - gallery/017_vaqa9l2z.jpg
+  - gallery/019_ffhetky7.jpg
+  - gallery/024_m9edsbe9.jpg
+  - gallery/028_ls9wblbt.jpg
+  - gallery/032_aanr43x2.jpg
+  - gallery/035.jpg
+  - gallery/039_8arvr7sf.jpg
+  - gallery/043_f0k18kvk.jpg
+  - gallery/044_wgohc5ot.jpg
+entries:
+  - { date: 21.05.2017, ort: "", km: "", land: "" }
+  - { date: 22.05.2017, ort: "", km: "", land: "" }
+  - { date: 23.05.2017, ort: "", km: "", land: "" }
+  - { date: 24.05.2017, ort: "", km: "", land: "" }
+---
+**Berichte**
+
+**Datum: 21.05.2017                           Kilometer: 389                          Ort: Osh / Kirgistan**
+
+Endlich hat es geklappt. Endlich bin ich in Kirgistan. Das ging nicht ganz „ohne“. Heute Morgen habe ich auf dem GPS Osh eingegeben. Tadschikistan und Kirgistan sind so in einander verflochten. Dazu kommt auch noch Usbekistan, dass ebenfalls überall noch Enklaven hat. Man weiss nie, wenn man fährt wo die Grenzen sind. Das Navi hat mir natürlich die schnellste Route nach Osh herausgesucht und ich habe schon gesehen, dass es an 2 Orten, so eine Enklave durchfährt. Ich nahm an, dass es für diesen Fall einen Transit gibt, doch „nada“. Ich habe frisch fröhlich die ersten 50 Kilometer abgespult und fand mich vor einer Enklave von Usbekistan. Mit Beton-Böllern war die Strasse unterbrochen. Es ging nicht weiter. Was nun? Ich nahm meine Karte zur Hand und sah, dass etwa 30 Kilometer weiter ein Border von Kirgistan war. Auf meiner Karte war keine andere Strasse mehr eingezeichnet als die, die durch die Enklaven geht. Ich konnte mir nicht vorstellen, dass Kirgistan keine andere Strasse in den Norden hat als die, die ich schon befuhr. Ich entschloss mich, diesen Border auszuprobieren und sagte mir, sonst muss ich die 30 Kilometer halt wieder zurück fahren. Zum Glück bin ich bereits um 7.30 Uhr losgefahren, so konnte ich einige Kompromisse eingehen. Als ich aus dem Dorf herausfuhr und auf die besagte Strasse zum Border fuhr, war da eine Tafel und eine Zeichnung, dass die Strasse neu gebaut wird. Lesen konnte ich das Scheiss-Ding sowieso nicht. Ich habe aber gesehen, dass neben der Strasse wenige Autos in meiner Richtung fuhren. Nun hatte ich halt 30 Kilometer Off-Road, was mich innerlich ein bisschen Anschiss, denn wenn das mit dem Border nichts ist, muss ich auf dieser Strecke wieder zurück. Eigentlich hatte ich keine Wahl und los ging es. Am Ende der Strecke tat sich eine kleinere tadschikische Stadt vor mir auf. Ich staunte, denn diese Strecke ist der einzige Zugang zu dieser Stadt. Den Border zu Kirgistan fand ich auf Anhieb. Ich fuhr zur ersten Schranke wo ein Soldat stand und fragte Ihn, ob der Border offen sei. Ja, war seine Antwort. Ich glaube meine Erleichterung war spürbar. Er öffnete das Tor und liess mich durch. Gleichzeitig wies er mich an, dass ich mein Bike auf der Seite abstellen soll und anschliessend den Pass, den Fahrzeugausweis und weitere Dokumente die ich bei der Einreise erhalten habe ins Büro mitzunehmen. Nach etwa 15 Minuten war die Ausreise aus Tadschikistan Tatsache. Es hatte fast keine Leute am Border. Niemand wollte meinen Pass sehen ich durfte einfach zum Border von Kirgistan fahren. Dort stellte ich das Bike auch wieder ab und ging mit meinem Kram wieder in ein Büro. Dort wurde mir für das Bike 10 US-Dollar abgeknöpft und ein Stempel in mein Pass gedrückt und fertig wars. Nach sage und schreibe 15 Minuten war auch das erledigt. Willkommen in Kirgistan, haben sie noch gesagt. Von da an fuhr ich die nächsten Kilometer, natürlich wieder Off-Road ins nächste Dorf und hielt mal an um zu schauen, wie ich nach Osh komme, ohne einen Border von Tadschikistan oder Usbekistan anzufahren. Der Töff ist auch hier eine Attraktion. Kaum habe ich angehalten, waren schon einige Kinder und zwei Erwachsene da. Ich fragte erst die Erwachsenen, ob sie englisch können und der eine sagte auf gut Englisch, dass er es könne. Ich fragte Ihn ob es eine Möglichkeit gibt auf dieser Strasse nach Osh zu kommen. Er schaute auf meine Karte und sagte, dass da einige Strassen nicht drauf sind. Auf dem GPS haben wir dann die Strasse gesehen und konnte so den ganzen Weg bis nach Osh an den Grenzen entlang fahren, ohne nochmals einen Border machen zu müssen. Gegen 16.30 Uhr bin ich dann in Osh angekommen. Die Fahrt war eigentlich sehr schön und Abwechslungsreich. Ein Stück war Wüste und dann wieder Grün. Die schneebedeckten Berge kamen immer wieder näher und an einigen Stellen hätte ich mir sogar die Schweiz vorstellen können. Osh ist in einer Hügellandschaft auf ca. 1100 Meter über Meer eingebetet. Die Temperaturen waren heute nicht höher als 32 Grad. Zwischendurch wieder mal 28 Grad. Also recht angenehm. Ich bleibe jetzt 2 Tage hier, bevor ich in die Nähe der chinesischen Grenze fahre. In Osh musste ich mich erst mal mit Kirgistan-Geld eindecken. Im Hotel bekam ich die Auskunft, dass etwa in 7 Minuten Gehweg ein ATM-Bancomat steht. Dieser hat auch funktioniert und so ist das Problem auch gelöst. Morgen gehe ich dann die Stadt noch anschauen. Darüber schreibe ich dann im morgigen Bericht.
+
+**Datum: 22.05.2017                              Kilometer: 0      Ort:                Osh / Kirgistan**
+
+Heute hätte ich eigentlich ausschlafen können, doch um 6 Uhr war bereits Schluss. Natürlich spielt auch die wiedermalige Zeitverschiebung um 1 Stunde ein Rolle. Nach der Morgentoilette mit „Dünnpfiff“ der sich gewaschen hat, ging ich zum Frühstück. Das blieb eigentlich wie immer, eine Tasse Kaffee ein Stück Brot mit Butter. Das wars. Gestern habe ich vor dem Hotel noch eine Tankstelle gesehen. Dort hatte es nebenan eine Autowäscherei. Ich ging fragen, ob ich hier mein Motorrad abspritzen kann, denn meine Karre sieht schrecklich aus. Sie sagten ja, ich soll vorbei kommen. Wieder zurück zum Hotel und den Bike-Schlüssel holen und ab gings in die Wäscherei. Dort wurde das Bike mit einem Hochdruckreiniger gründlich abgespritzt. Anschliessend wollte er das Bike mit dem Schwamm von Hand reinigen. Ich sagte dass er das lassen soll, denn es wird wieder schmutzig. Mit umgerechnet 2 Dollar war er sehr zufrieden. Anschliessend tankte ich das Bike auch noch gleich auf, damit ich dann bereit bin. Hier kostet der Liter um die 70 Rappen. Nun war es Zeit mich um meine Wäsche zu kümmern. Wieder rauf ins Hotelzimmer und jetzt war waschen angesagt. Drei T-Shirts, Socken und einige Unterhosen wurden eingeweicht, ausgewaschen und im Badezimmer aufgehängt. Das sollte bis Morgen wieder trocken sein. Jetzt war die Stadtbesichtigung an der Reihe. An der Reception sagten sie mir, dass ich ein Taxi nehmen soll ins Zentrum. Dieses sei etwa 3 Kilometer entfernt. Ich bat Ihn mir ein Taxi zu bestellen. Kurze Zeit später fuhren wir bis ins Zentrum für ca. 1 Dollar 20 Cent. Nun, vom Hocker hats mich nicht gehauen. Ich sah, dass es ein Bazar hat und schlenderte etwa 3 Stunden durch den Bazar und einige Stadtpärke mit Kinderspielplätzen. Inzwischen war es 14 Uhr und ich verspürte einen kleinen Hunger. In einer Imbissbude bekam ich Buffelo-Wings (scharf) mit einigen Pommes und zwei Salatblätter drauf. Es war nicht schlecht doch fragte ich mich was den Buffelo ist. Doch mehr als gut muss es ja nicht sein. Anschliessend war wieder Taxi angesagt zurück zum Hotel, wieder zum gleichen Preis. Im Internet habe ich gesehen, dass die Chinesen für jedes Fahrzeug ein Depot verlangen von 2000 US-Dollar. Dieses wird bei der Ausreise aus China wieder zurückerstattet. Ich habe eigentlich noch genug Dollars, aber wenn ich für das Bike auch 2000 Dollar locker machen muss, wird es ein wenig knapp in China. Nun bin ich am Nachmittag noch zu so einem ATM-Automaten gegangen und habe das Tageslimit von 400 Dollar ausgeschöpft. In Sary-Tash habe ich in einem Hostel ein Zimmer für den 24. Auf den 25. Mai bestellt. Das konnte ich über Booking.com machen. Es hat dort sehr wenig Übernachtungs-möglichkeiten. Aus diesem Grund habe ich mich entschlossen in Osh noch ein Tag anzuhängen. Dann habe ich nur eine Nacht in Sary-Tash. Diese wird sowieso sehr kurz, denn ich muss um 10 Uhr Peking-Time an der Grenze sein. Das heisst mit der  Zeitverschiebung von zwei Stunden ist das in Kirgistan um 8 Uhr und ich muss über einen Pass. Die Distanz ist zwar nur etwa 70 Kilometer, doch bei der ungewissen Strassenzustandslage will ich mich nicht auf die Äste rauslassen und um 6 Uhr starten.
+
+**Datum: 23.05.2017                              Kilometer: 15                                        Ort: Osh / Kirgistan**
+
+Heute bin erst so gegen 8 Uhr aufgestanden. Erster Gang zum legendären Frühstück. Kaffee, Brot, Butter. Nachdem ich noch die Ausführungen gelesen habe betreffend dem Border zu Cina, bin ich zum nächsten Supermarkt gewatschelt und habe mich mit 2 Flaschen Minreralwasser und einer Packung Chrömli eingedeckt. Sie schreiben, dass der Übergang bzw. die Immigration sehr schwerfällig ist und dieses mehrere Stunden dauern kann. Sie empfehlen darum, genug zu Trinken dabei zu haben und weil sicher das Mittagessen ausfällt auch etwas zum knappern. Gleichzeitig habe ich auch noch Duschmittel gekauft, denn meines aus der Schweiz geht langsam dem Ende entgegen. Übrigens das Duschmittel eignet sich auch zum Wäsche waschen. Dies war mal ein Tipp den ich im Internet gelesen habe und ich muss sagen der funktioniert tadellos. Als ich beim Hotel zurück war, ging ich das Problem zu wenig Luft im Vorderreifen an. Auf meiner Anzeige kommt immer der Alarm, dass ich nur noch 2,2 Bar im Vorderreifen habe. Ich probierte meine mitgeführte Pumpmaschine aus und sie funktionierte nicht. Ein nebenan parkiertes Auto mit Fahrer anerbot sich, mein Apparat bei ihm einzustecken und siehe da es funktionierte. Im nu hatte ich fast 3 Bar wieder drinnen. Anschliessend nahm ich meinen Helm mit aufs Zimmer und montierte die beiden Visiere ab und unterzog auch die einer gründlichen Reinigung. Anschliessend war der Helm dran. Mensch war der staubig und voll Mücken-Klacksen. Nun sieht der Helm wieder wie rundumerneuert aus, was auch mein Ziel war. Gestern habe ich noch geschaut, wo die Werkstatt von Muztoo in Osh ist. Das ist ein Thurgauer-Reisebüro, die Töffreisen in Kirgistan und den umgebenen Ländern anbieten. Man hätte  auch Pneus bei ihnen bestellen können und sie wären dann besorgt gewesen, dass diese da sind und auch aufgezogen würden. Man könne auch kleinere Reparaturen an seinem Bike selber vornehmen in seiner Werkstatt usw. Mich nahm nur wunder wo das ist und wie das so ausschaut. Ich bin dann mit Bike dorthin gefahren. Ich getraute mich nicht, mich bei denen zu melden, denn ich brauche ja von denen gar nichts. Ich habe den Heidenau-Pneu drauf und die einschlägigen Seiten sagen, dass dieser Pneu ganze 20000 Kilometer halten werde. Bis jetzt kann ich das nur bestätigen, denn ich habe jetzt etwas mehr als 10000 Kilometer drauf und habe mindestens noch die Hälfte an Profil drauf. Der wird sicher reichen bis Peking. Als ich mein Gwunder gestillt hatte fuhr ich mit dem Bike noch in die Stadt. Als ich am Strassenrand ein Kaffee sah, hielt ich an und genehmigte mir einen doppelten Expresso. Er war allerhöchstens recht. Kein Schümli aber eben Bohnenkaffee. Sonst bekommt man nur Nescafe. Das ist hier gross in Mode. Wie heute ist es mir schon recht viele Male passiert, dass wenn ich mich setzte sofort wildfremde Personen auf mich zu kommen und fragen woher ich komme und mich über die Schweiz ausfragen. Das sind dann minutenlange Gespräche die nicht mehr aufhören wollen und schlussendlich ich den Kaffee halt kalt trinken muss. Man sieht mir natürlich den Touri von weitem an. Ich glaube ich bin der Einzige der kurze Hosen trägt und in den Schlarpen daherkommt. Die Einheimischen sind meist gut angezogen. Hemd, Hose und polierte Schuhe, auch wenn es über 30 Grad heiss ist. Die Frauen sind auch gut angezogen mit Rock, Bluse und hochhackigen Schuhen. Etwa 10 Prozent der Frauen sind verschleiert. Das ist halt nur eine Schätzung, denn ich weiss ja nicht, wie viele verschleierte Frauen zuhause sind. Am späteren Nachmittag bin ich dann noch die etwa 4 Kilometer in die Stadt hinein gelaufen. Den Rückweg habe ich mir dann auch noch angetan denn ich hatte ja genug Zeit. Heute esse ich im Hotel. Ich möchte nochmal etwas Gutes auf dem Teller. Ich weiss ja nicht, wies Morgen wird. Morgen habe ich die letzte Etappe in Kirgistan. Ziel ist Sary-Tash welches etwa 200 Kilometer entfernt liegt. Es ist mitten im Pamir auf etwa 3100 Meter über Meer. Ob ich dort Internetverbindung habe weiss ich nicht. Dass sehe ich dann Morgen. Wenn ja, berichte ich darüber.
+
+**Datum: 24.05.2017                             Kilometer: 197                         Ort: Sary-Tash / Kirgistan**
+
+Endlich geht es weiter. Heute stand die Fahrt nach Sary-Tash an. 200 Kilometer das macht man Easy. Ich bin erst so um 9.30 Uhr in Osh abgefahren da ich wusste, dass ich mir richtig Zeit lassen kann. Dann der Schock. Nach gut 50 Kilometer hat mich die Polizei nach der Einfahrt in ein Dorf herausgewunken. Ich war in einer Kolonne von ca. 10 Autos und ich mitten drin. Sie nahmen nur mich heraus und die anderen Autos liessen sie passieren. Der Polizist verlangte von mir Führerschein und Fahrzeugausweis und behauptete, dass ich zu schnell gefahren sei. Auf der dreckigen Scheibe des Polizei-Autos schrieb er, dass es hier 40 sei und ich 60 gefahren sei. Erstens habe ich nicht mitbekommen, dass es hier 40 ist und zweitens fuhr ich ja in dem Convoi. Nun was wollte ich machen. Als er mir den Preis sagte, haute es mich fast aus den Schuhen heraus. 300 US-Dollar für zu schnelles Fahren. Entweder ich bezahle sofort, dann bekomme ich die Ausweise wieder zurück und sonst bekäme ich die Ausweise nicht mehr zurück. Was wollte ich machen? Zähneknirschend habe ich bezahlt und meine Ausweise wieder bekommen. Eine Quittung gab es natürlich auch nicht. Er steckte das Geld einfach in den Sack. Diese verdammten korrupten Polizisten. Das hat mir wirklich auf das Gemüt geschlagen. Im Zorn bin ich dann weitergefahren und so um 15 Uhr in Sary-Tash angekommen. Die Fahrt führte mich über einen Pass auf rund 3600 Meter über Meer. Sary-Tash selber liegt auf 3100 Meter über Meer. Es ist ein richtiges Bergdorf. Kleine Häuser am Rande eines Gebirgsplateaus. Um ca. 18 Uhr bekomme ich dann Abendessen und für mich heisst es heute recht früh zu Bett gehen, denn ich muss um ca. 5.30 Uhr aufstehen, damit ich am Border zu China um 10 Uhr bin. Die nette Dame von Weitu hat mir mitgeteilt, dass ich um 10 Uhr Peking Time dort sein soll. Das heisst für mich, dass ich um 8 Uhr Kirgistan-Zeit dort sein muss. Ich habe mindestens eine Stunde dort hin und ich weiss nicht wie lange die Ausreise geht. Ich habe vor, um 6 Uhr loszufahren um auf der sicheren Seite zu sein. Leider sieht das Wetter im Moment nicht gut aus. Ich hoffe, dass es Morgen nicht regnet oder schneit. Über das zerbreche ich mir heute aber nicht den Kopf. Mehr dann Morgen.

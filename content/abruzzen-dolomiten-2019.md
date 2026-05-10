@@ -1,0 +1,77 @@
+---
+title: Abruzzen/Dolomiten 2019
+description: Motorradfahren Abruzzen Dolomiten 2019
+slug: "abruzzen-dolomiten-2019"
+legacy_slug: "abruzzen-dolomiten-2019"
+canonical: true
+section: "Motorrad-Reisen"
+trip: Abruzzen/Dolomiten 2019
+breadcrumb:
+  - "Motorrad-Reisen"
+  - Abruzzen/Dolomiten 2019
+order: 47
+gallery:
+  - gallery/20190807_195755_resized_l0r5qj8v.jpg
+  - gallery/20190810_164616_resized_j1jdb9je.jpg
+  - gallery/20190811_142325_resized_ofg9el0o.jpg
+  - gallery/20190811_160340_resized_1k682qu6.jpg
+  - gallery/DSC03219_90j3bg0n.jpg
+  - gallery/DSC03221_jxxd5fp4.jpg
+  - gallery/IMG_3311_0ejovylj.jpg
+  - gallery/IMG_3312_xbi5j8jc.jpg
+  - gallery/IMG_3314_1vfj3nmz.jpg
+  - gallery/DSC03211_m14paeuj.jpg
+  - gallery/DSC03212_ndboyd48.jpg
+  - gallery/DSC03215_qy0xsu2u.jpg
+  - gallery/DSC03216_vsa38lje.jpg
+  - gallery/IMG_3309_0236dzts.jpg
+  - gallery/IMG_3310_7ccwqujq.jpg
+  - gallery/P1040277_xxdmo0qs.jpg
+  - gallery/P1040279_z9ui3qa2.jpg
+  - gallery/DSC03158_txpedzc6.jpg
+  - gallery/DSC03161_nddoctig.jpg
+  - gallery/DSC03168_kl6b8xqx.jpg
+  - gallery/DSC03190_t65mqsju.jpg
+  - gallery/DSC03201_ugffotby.jpg
+  - gallery/IMG_3305_uwc23v5t.jpg
+  - gallery/IMG_3296_0t77aa3d.jpg
+  - gallery/IMG_3298_sjosuf5x.jpg
+  - gallery/IMG_3300_ipx7vmm6.jpg
+  - "gallery/6db66ad1-0ab7-4541-858d-f54e50666897_98p0yfaq.jpg"
+  - gallery/DSC03149_qzvcv0av.jpg
+  - gallery/DSC03151_li8w844w.jpg
+  - gallery/IMG_3287_bpo6ajw5.jpg
+  - gallery/DSC03148_m69a9txr.jpg
+  - gallery/IMG_3332_xa5krmhw.jpg
+  - gallery/IMG_3334_8z466rvf.jpg
+  - gallery/IMG_3365_rekdxyxe.jpg
+  - gallery/IMG_3402_61vllx28.jpg
+  - gallery/IMG_3406_nivk9l6v.jpg
+---
+**Datum: 5. August 2019    Ort: St. Leonhard  Kilometer:    223     Land: Austria**
+
+Am 5. August 2019 um 9 Uhr kam Roger von Urnäsch ins Weissbad, wo wir uns verabredet hatten. Wir haben geplant, über die Abruzzen zufahren um Pascale und Fabio in Mondragone zu besuchen. Um 9.20 Uhr fuhren wir los. Unsere erste Etappe war eigentlich ein kleiner Hüpfer bis nach St. Leonhard. Wir kamen recht zügig voran. Über den Eichberg nach Oberried und dann weiter über die Grenze nach Österreich. Schnell waren wir auf der Autobahn in Richtung Innsbruck. Auf der Höhe Imst kam dann der Abzweiger ins Ötztal. In Sölden hielten wir für ein kurzes Mittagessen an. Es gab Spar Rips mit Ofenkartoffel. Es war ausgezeichnet. Dann ging es weiter in Richtung Timmelsjoch. An der Mautstelle bezahlten wir brav die je 14 Euros und fuhren weiter auf die Passhöhe wo dann auch der Border nach Italien war. Dieser war unbesetzt und konnten ohne anzuhalten durchfahren. Bald waren wir in St. Leonhard unserer ersten Station. Im Hotel Tyrolerhof quartierten wir uns in zwei Einzelzimmer ein. Einen kleinen Rundgang durch das Dorf durfte natürlich nicht fehlen. Beim anschliessenden Abendessen planten wir noch unsere nächste Station in den Abruzzen. Wir einigten uns auf L’Aquila. Das wird dann ein langer Ritt. Wir werden Morgen recht früh aufbrechen und dann über Bolognia dann in die Abruzzen fahren.
+
+**Datum: 6. August 2019    Ort: L’Aquila           Kilometer:    770     Land: Italien**
+
+Um 8 Uhr war Frühstücken angesagt und um 8.30 Uhr konnte es dann losgehen. Bei bewölktem aber trockenen Wetter und angenehmen Temperaturen fuhren wir los Richtung Meran und Bozen. Ab Meran hatten wir dann Autobahn. Wir mussten, da wir einen langen Ritt hatten, recht zügig fahren und kamen gut voran. Nach gut zwei Stunden machten wir einen kurzen Halt und fuhren dann auf der Autostrada weiter. Vorbei an Florenz ging es dann opsi in die Abruzzen. Ab Perugia hatten wir dann keine Autostrada mehr und genossen die letzten Kilometer auf den normalen Strassen. In L’Aquila fanden wir das Hotel Castello auf Anhieb. Dieses hatten wir am Vortag über Booking gebucht. Die Motorräder durften wir in die Garage stellen. Auch ein kleiner Stadtrundgang durfte natürlich auch nicht fehlen. Das Hotel war sehr gut gelegen. Wir hatten nur gut zweihundert Meter bis zur Fussgänger-Zone. Die ganze Stadt befindet sich immer noch im Renovationsbau. Überall stehen Kräne. Viele Häuser wurden bereits repariert und die, die noch nicht repariert wurden nach dem Erdbeben, sind abgestützt, damit man sicher durch die Gassen gehen kann. Ich habe sogar die Uhr und den Platz gefunden, wo ich mit Melanie vor dem Erdbeben in einem kleinen Restaurant gesessen habe und ein Foto gemacht hatte. Viele Geschäfte und Restaurants sind noch geschlossen und ich vermute, dass es noch einige Zeit braucht, bis alles wieder so ist, wie es einmal war. In einem kleinen Restaurant, unweit unseres Hotels haben wir unser Abendessen eingenommen. Bald verzogen wir uns auf unsere Zimmer, denn unsere Ärsche spürten wir nach dem langen Ritt noch recht heftig. Die Temperaturen waren anfangs wirklich angenehm so um 26 Grad. Als wir dann in die Ebenen hinunterkamen, stieg dieses dann auf wirklich warme 36 Grad und dies bei eitlem Sonnenschein. Erst als wir wirklich in den Abruzzen ankamen, normalisierten sich die Temperaturen wieder so um 28 Grad. Der Verkehr und die Strassen waren meist hervorragend.
+
+**Datum: 7. August 2019    Ort: Mondragone   Kilometer: 340        Land: Italien**
+
+Da wir heute nur eine kleine Tour bis nach Mondragone hatten, haben wir erst um 8.30 Uhr abgemacht fürs Frühstück. Da ich nicht mehr schlafen konnte, ging ich bereits um 7.30 Uhr zum Frühstück. Als ich in der Hotellobby ankam, sass bereits Roger dort. Er hätte auch nicht mehr schlafen können. Zusammen machten wir uns über das Frühstücksbuffet her. Nach dem Check-Out um 9.30 Uhr fuhren wir dann los in Richtung Mondragone. Da wir gestern viele Autobahn-Kilometer hatten, fuhren wir nur kleine Abschnitte in den Bergen der Abruzzen. Immer einfach Südlich und über diesen Hügel und dann diesen bis wir dann bald auf der Höhe von Mondragone waren. Irgendwann haben wir dann Mondragone eingegeben und sind dann auf dem schnellsten Weg dorthin gefahren. Natürlich direkt zu Rallos, wo wir von Fabio und Silvana erwartet wurden. Dass war so um 15 Uhr. Pascale ist mit den Kindern an den Strand gefahren und wurden natürlich über unser Eintreffen sofort informiert. Fabio hatte Unfall gemacht. Sein rechter Arm ist im Gips und sein Fuss ist auch lädiert. Nach dem Eintreffen von Pascale mit den Kindern und dem ersten Hallo haben wir dann sofort die Fressalien, welche wir aus Appenzell mitgebracht hatten ausgepackt. Leider mussten wir die Bratwürste sofort liquidieren, denn diese hatten einfach zu warm. Der Käse und die Minipics waren aber noch ok. Gegen 17 Uhr fuhren wir dann zu unserer Unterkunft ins Lido Kammel. Dort vermieten sie so Bungalow-Zimmer die recht gut ausgestattet sind. Der Lido ist direkt am Meer. Roger und ich mieteten sofort einen Liegestuhl und nahmen das erste Bad im Meer. Das Wasser war sehr warm. Eine Erfrischung sieht etwas anders aus. Aber angenehm war es alle mal. Um 19.30 Uhr spazierten wir dann zur nächsten Bar und genehmigten uns einen Aperol Spriz. Natürlich fehlte das Apero-Zugemüse auch nicht. Pünktlich, wie abgemacht holte uns Pascale um 20.30 Uhr beim Lido ab und fuhren dann nach Mondragone-City. Dort hatte es sehr viele Leute in der Strandnähe. Fabio musste, obwohl er wirklich handicapiert war, eine Ansprache halten. Sein Basketball-Verein hatte ein Spiel am Abend und er war der neue Präsident des Vereins. Später gingen wir dann zum Nachtessen in ein kleines Restaurant. Pizza gabs. Dann noch ein kleines Weilchen zum Kinderspielplatz, der noch voll im Betrieb war. Die Kinder seckelten die Hüpfburg hoch und rutschten wieder runter. Gegen 23.30 Uhr machten wir uns dann auf den Heimweg. Pascale chauffierte uns wieder zu unserem Lido, wo wir dann unsere erste Nacht in Mondragone verbrachten.
+
+**Datum: 8. August 2019    Ort: Mondragone   Kilometer: 0 Land: Italien**
+
+Nach einer unruhigen Nacht bei mir, standen wir um 8.30 Uhr auf. Roger sagte, dass er absolut gut geschlafen habe. Ich halt nicht so aber was solls. Nach einem Kaffee gingen wir wieder zu unseren Liegestühlen am Meer. Bald schon meldete sich Pascale und sagte, dass Fabio und Giulia immer noch schlafen. Das wundert mich gar nicht, denn diese sind ja erst um 1 Uhr nachts ins Bett gegangen. Um 11 Uhr holte uns Pascale in unserem Lido ab und fuhren zu Ihrem Lido in Mondragone. Dort nahmen wir einige Bäder im Meer und gingen später dann zum Mittagessen. Spaghetti Vongole. Hmm waren wirklich gut. Gegen 15 Uhr brachte uns Pascale wieder zurück in unseren Lido. Nach einer Dusche mit anschliessendem Nickerchen durfte natürlich nicht fehlen. Roger hat drei Stunden durchgeschlafen und ich hatte nach einer guten Stunde genug. Ich beschloss, meinen Mondragone-Bericht zu schreiben und die vergangenen Tage ein bisschen Revue passieren zu lassen. Heute Abend gehen wir noch zusammen etwas essen und verabschieden uns dann, denn Morgen wollen wir recht früh abfahren. Wir werden sofort wieder in die Abruzzen fahren und unsere erste Station sollte in der Nähe von Perugia sein. Alles weitere dann in meinem nächsten Bericht.
+
+**Datum: 9. August 2019    Ort: Passiano         Kilometer: 416        Land: Italien**
+
+Um 8 Uhr sind wir zum «Frühstück». Dieses ist in diesem Lido recht rudimentär. Im Holzhäuschen kann man ein Kaffee bestellen und wenn man will kann man auch noch ein Gipfeli á la Italia haben. Das wars. Dar Lido als solches ist sehr schön am Meer gelegen direkt am Strand. Die Sonne schien schon recht stark und die Temperaturen stiegen schon bald wieder gegen 30 Grad. Um 8.45 Uhr waren unsere Bikes gepackt und starbereit. Roger bar mich, die ersten paar Kilometer voraus zu fahren bis wir wieder in den Abruzzen sind. Gesagt getan. Zügig ging es raus Richtung Cassino und dann schön dem Navi nach in die Abruzzen. Nach gut 400 Kilometer kamen wir dann in Passiano an einem Kratersee in den Abruzzen an. Schweissgebadet und recht müde luden wir unser Gepäck von unseren Töffs ab und bezogen unsere Zimmer. Roger wollte sofort wieder raus um das Städtchen anzuschauen. Das machten wir aber wirklich nur ganz kurz, denn es war wieder brandheiss. Durch die Gassen war es noch heisser als am See. Es hatte auch nicht sehr viele Leute unterwegs. Natürlich, bei diesen Temperaturen! Wir beschlossen, noch eine kleine Siesta abzuhalten und trafen uns erst wieder um 19 Uhr. Erst gings zum Apero und später dann zum Abendessen. Wir hatten Glück, dass wir noch in unserem favorisierten Restaurant einen Platz bekamen. Das Essen war sehr gut, ausser, dass nicht alles zum gleichen Zeitpunkt kam. Nun, wir sind ja in Italien! Morgen geht es weiter nach St. Christiana im Grödnertal in den Dolomiten.
+
+**Datum: 10. August 2019  Ort: St. Christiana Kilometer: 580        Land: Italien**
+
+Das war ein schweres Stück Arbeit heute. Um 9 Uhr fuhren wir nach dem Frühstück los, alles auf dem schnellsten Weg in die Dolomiten. Es war wirklich wieder sehr warm. Vor allem in der Po-Ebene. Das Thermometer stieg natürlich wieder auf 37 Grad. Die meiste Zeit fuhr Roger als Leader. Ich muss schon sagen, er fährt einfach super. Er überholt an der richtigen Stelle und gibt auch dementsprechend Gas, wenn es sein muss. Vorbei an Verona, Bolognia auf die Brenner-Autobahn. Dort hatte es riesige Staus. Eine Besonderheit konnte ich Roger auch beibringen. Wenn es Stau hat, fahren alle Motorradfahrer auf die rechte Seite auf den Pannenstreifen und fahren mit angepasster Geschwindigkeit, so etwa 60 Stundenkilometer, am Stau entlang. Man muss wirklich höllisch aufpassen. Am besten ist es, wenn man sich in einem Pulk von Bikefahrern befindet. So konnten wir etwa 70 Kilometer alles auf dem Pannenstreifen fahren. Wenn wir im Stau gestanden wären, hätte man uns nach ein paar Stunden abholen müssen, denn an der Sonne und bei Stillstand, wäre die Hitze mörderisch gewesen. Auf der Höhe Trient bogen wir dann von der Autobahn ab in die Dolomiten. Jetzt war wirklich Töfffahren angesagt. Pass da und Pass dort. Wunderschöne Strassen mit recht wenig Verkehr und da, wo es etwas zum Überholen gab, konnte man problemlos daran vorbei. Müde kamen wir dann im Grödner-Tal an. Auf Anhieb fanden wir unser vorreserviertes Hotel und bezogen unsere Zimmer. Wir heute mit Halbpension gebucht, damit wir nicht noch ein Restaurant suchen mussten. Das war wirklich ein guter Entscheid, denn wir hatten grossen Hunger. Gleichzeitig machten wir uns über den Wetterbericht schlau, der sagte, dass am Montag Dauerregen sei. So beschlossen wir, dass heute unsere letzte Übernachtung stattfindet und wir Morgen direkt nach Hause fahren. Das Abendessen war ausgezeichnet. Zur Feier des Tages bestellten wir uns eine Flasche Wein und ein Mineralwasser. Bald darauf bezogen wir unsere Zimmer zu unserer wohlverdienten Nachtruhe.
+
+**Datum: 11. August 2019  Ort: Weissbad        Kilometer: 470        Land: Schweiz**
+
+Nach dem guten Frühstück fuhren wir um 9.30 Uhr ab. Natürlich wollten wir noch einige Pässe in den Dolomiten machen. Wir beschlossen, dass wir noch den Sella-Ronda machen und dann noch Meran weiterfahren. Grödnerjoch, Pordoi und wie sie alle heissen waren maximal zum Biken. Nach gut zwei Stunden waren wir dann dort durch und fuhren dann über Bozen nach Meran. Natürlich auf der Autobahn. Dann ging es hinein ins Vinschgau und dann über den Ofenpass wieder in die Schweiz. Als wir in Zernez ankamen entschlossen wir uns, dass wir den Albulapass nehmen und dann über die Lenzerheide nach Chur fahren. Das war ein Fehlentscheid. Denn ich habe nicht daran gedacht, dass auf der Lenzerheide das Mountenbike-Weltcuprennen war. So kamen wir natürlich wieder in den Stau. Diesen konnten wir dank unseren Bikes meist gut überholen. Als wir dann in Chur ankamen, fuhren wir nicht zur Südeinfahrt der Autobahn sondern durch die Stadt auf die Nordeinfahrt, denn wir befürchteten weiterhin Stau auch auf der Autobahn. Es war natürlich kein bisschen besser auf der Nordeinfahrt. Auch dort Stau, Stau und nochmals Stau. Mit wechselseitigem Spurwechsel schlängelten wir uns durch die Autos bis zum Abzweiger auf die Rheintalautobahn. Roger sagte mir über Sprechfunk, dass er direkt über die Schwägalp fahren will, damit er so direkt nach Hause kommt. Die dunklen Wolken verhiessen nicht gutes aber destotrotz fuhren wir wie gewünscht über die Schwägalp. Was wir natürlich auch nicht daran gedacht haben war, dass auf der Schwägalp die Schwägalpschwinget stattfand. Zum Glück war der Hauptverkehr bereits vorbei, sodass wir recht zügig nach Urnäsch kamen. Wir verabschiedeten uns nur noch kurz, denn die Wolken hingen bedrohlich über uns. Um 19.15 Uhr kam ich trocken in Weissbad an. Kaum kam ich in die Wohnung schüttete es bereits wie aus kübeln. Nun haben wir grosses Glück gehabt, dass wir noch trocken nach Hause gekommen sind. Im Nachhinein muss man sagen, wäre es besser gewesen, wenn wir in Zernez über den Flüelapass nach Davos gefahren wären und dann wie gewohnt über den Eichberg nach Appenzell. Nun, nachher sind alle klüger. Es war wirklich eine schöne Tour mit Roger. Allerdings werden wir nicht mehr im Hochsommer nach Mondragone fahren, denn es ist einfach zu heiss. In den Abruzzen hat es kurzzeitig schon Abkühlungen auf den Gipfeln, aber unten in den Tälern ist es fast genauso heiss wie in den Ebenen. Die Dolomiten waren genial und die Temperaturen dort natürlich auch, denn man befindet sich kaum einmal unter 1000 Meter über Meer. Hauptsache ist, dass wir wieder gesund und unfallfrei nach Hause gekommen sind. Auf jeden Fall freuen wir uns bereits wieder auf unsere nächste Tour.

@@ -1,0 +1,897 @@
+[
+  {
+    "label": "Startseite",
+    "href": "index.html",
+    "children": []
+  },
+  {
+    "label": "Über uns",
+    "href": "ueber-uns.html",
+    "children": []
+  },
+  {
+    "label": "Motorräder",
+    "href": "motorraeder.html",
+    "children": []
+  },
+  {
+    "label": "Kontakt",
+    "href": "kontakt.html",
+    "children": []
+  },
+  {
+    "label": "Motorrad-Reisen",
+    "href": null,
+    "children": [
+      {
+        "label": "Costa blanca 2025/26",
+        "href": null,
+        "children": [
+          {
+            "label": "Costa blanca 2025/26",
+            "href": "costa-blanca-2025-26.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "München Bangkok 2025",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Woche 1 23.04. - 27.04.",
+                "href": "woche-1-23-04-27-04.html",
+                "children": []
+              },
+              {
+                "label": "Woche 2 28.04. - 04.05.",
+                "href": "woche-2-28-04-04-05.html",
+                "children": []
+              },
+              {
+                "label": "Woche 3 05.05. - 11.05.",
+                "href": "woche-3-05-05-11-05.html",
+                "children": []
+              },
+              {
+                "label": "Woche 4 12.05. - 18.05.",
+                "href": "woche-4-12-05-18-05.html",
+                "children": []
+              },
+              {
+                "label": "Woche 5 19.05. - 24.05.",
+                "href": "woche-5-19-05-24-05.html",
+                "children": []
+              },
+              {
+                "label": "Woche 6 25.05. - 31.05.",
+                "href": "woche-6-25-05-31-05.html",
+                "children": []
+              },
+              {
+                "label": "Woche 7 01.06. - 07.06.",
+                "href": "woche-7-01-06-07-06.html",
+                "children": []
+              },
+              {
+                "label": "Woche 8 08.06. - 14.06.",
+                "href": "woche-8-08-06-14-06.html",
+                "children": []
+              },
+              {
+                "label": "Woche 9 15.06. - 21.06.",
+                "href": "woche-9-15-06-21-06.html",
+                "children": []
+              },
+              {
+                "label": "Vorwort",
+                "href": "vorwort.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Andalusien 2024/25",
+        "href": null,
+        "children": [
+          {
+            "label": "Andalusien 2024/25",
+            "href": "andalusien-2024-25.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "Norwegen 2024",
+        "href": null,
+        "children": [
+          {
+            "label": "Norwegen 2024",
+            "href": "norwegen-2024.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "Andalusien 2023/24",
+        "href": null,
+        "children": [
+          {
+            "label": "Andalusien 2023/24",
+            "href": "andalusien-2023-24.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "Südamerika 2023",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Woche 10.02. - 16.02.",
+                "href": "woche-10-02-16-02.html",
+                "children": []
+              },
+              {
+                "label": "Woche 17.02. - 23.02.",
+                "href": "woche-17-02-23-02.html",
+                "children": []
+              },
+              {
+                "label": "Woche 24.02. - 02.03.",
+                "href": "woche-24-02-02-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 03.03. - 09.03.",
+                "href": "woche-03-03-09-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 10.03. - 16.03.",
+                "href": "woche-10-03-16-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 17.03. - 23.03.",
+                "href": "woche-17-03-23-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 24.03. - 30.03.",
+                "href": "woche-24-03-30-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 31.03. - 06.04.",
+                "href": "woche-31-03-06-04.html",
+                "children": []
+              },
+              {
+                "label": "Woche 07.04. - 13.04.",
+                "href": "woche-07-04-13-04.html",
+                "children": []
+              },
+              {
+                "label": "Woche 14.04. - 20.04.",
+                "href": "woche-14-04-20-04.html",
+                "children": []
+              },
+              {
+                "label": "Woche 21.04. - 26.04.",
+                "href": "woche-21-04-26-04.html",
+                "children": []
+              },
+              {
+                "label": "Schlussbericht",
+                "href": "schlussbericht-2.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Südamerika 2023",
+            "href": "suedamerika-2023.html",
+            "children": []
+          },
+          {
+            "label": "Vorbereitung",
+            "href": "vorbereitung-4.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "Sizilien 2022",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Sizilien 2022",
+                "href": "sizilien-2022.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "England Irland 2022",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "England / Irland 2022",
+                "href": "england-irland-2022.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Nordkapp 2021",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Nordkap 2021",
+                "href": "nordkap-2021.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Rumänien 2021",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Rumänien 2021",
+                "href": "rumaenien-2021.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Afrika-Tour 2020",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Südafrika Melanie",
+                "href": "suedafrika-melanie.html",
+                "children": []
+              },
+              {
+                "label": "Südafrika DJ",
+                "href": "suedafrika-dj.html",
+                "children": []
+              },
+              {
+                "label": "Simbabwe",
+                "href": "simbabwe.html",
+                "children": []
+              },
+              {
+                "label": "Sambia",
+                "href": "sambia.html",
+                "children": []
+              },
+              {
+                "label": "Malawi",
+                "href": "malawi.html",
+                "children": []
+              },
+              {
+                "label": "Tansania",
+                "href": "tansania.html",
+                "children": []
+              },
+              {
+                "label": "Kenya",
+                "href": "kenya.html",
+                "children": []
+              },
+              {
+                "label": "Äthiopien",
+                "href": "aethiopien.html",
+                "children": []
+              },
+              {
+                "label": "Sudan",
+                "href": "sudan.html",
+                "children": []
+              },
+              {
+                "label": "Ägypten",
+                "href": "aegypten.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Vorbereitung",
+            "href": null,
+            "children": [
+              {
+                "label": "Vorbereitung",
+                "href": "vorbereitung-3.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Abruzzen/Dolomiten 2019",
+        "href": "abruzzen-dolomiten-2019.html",
+        "children": []
+      },
+      {
+        "label": "Australien 2019",
+        "href": "australien-2019.html",
+        "children": []
+      },
+      {
+        "label": "Südostasien 2019",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Indien",
+                "href": "indien.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Vorbereitung",
+            "href": null,
+            "children": [
+              {
+                "label": "Vorbereitung",
+                "href": "vorbereitung-2.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Frankreich/Spanien/ Portugal 2019",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Frankreich/Spanien/ Portugal 2019 Teil 1",
+                "href": "frankreich-spanien-portugal-2019-teil-1.html",
+                "children": []
+              },
+              {
+                "label": "Frankreich/Spanien/ Portugal 2019 Teil 2",
+                "href": "frankreich-spanien-portugal-2019-teil-2.html",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seidenstrasse 2017",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Schweiz - Türkei",
+                "href": "schweiz-tuerkei.html",
+                "children": []
+              },
+              {
+                "label": "Georgien",
+                "href": "georgien.html",
+                "children": []
+              },
+              {
+                "label": "Azerbaijan",
+                "href": "azerbaijan.html",
+                "children": []
+              },
+              {
+                "label": "Iran",
+                "href": "iran.html",
+                "children": []
+              },
+              {
+                "label": "Turkmenistan",
+                "href": "turkmenistan.html",
+                "children": []
+              },
+              {
+                "label": "Usbekistan",
+                "href": "usbekistan.html",
+                "children": []
+              },
+              {
+                "label": "Tadschikistan",
+                "href": "tadschikistan.html",
+                "children": []
+              },
+              {
+                "label": "Kirgistan",
+                "href": "kirgistan.html",
+                "children": []
+              },
+              {
+                "label": "China 1 Hinreise",
+                "href": "china-1-hinreise.html",
+                "children": []
+              },
+              {
+                "label": "China 2 Hinreise",
+                "href": "china-2-hinreise.html",
+                "children": []
+              },
+              {
+                "label": "Boxenstopp / Zwischenbericht",
+                "href": "boxenstopp-zwischenbericht.html",
+                "children": []
+              },
+              {
+                "label": "China 1 Rückreise",
+                "href": "china-1-rueckreise.html",
+                "children": []
+              },
+              {
+                "label": "Mongolei",
+                "href": "mongolei.html",
+                "children": []
+              },
+              {
+                "label": "Russland Ost",
+                "href": "russland-ost.html",
+                "children": []
+              },
+              {
+                "label": "Russland Zentral",
+                "href": "russland-zentral.html",
+                "children": []
+              },
+              {
+                "label": "Russland West",
+                "href": "russland-west.html",
+                "children": []
+              },
+              {
+                "label": "Finnland",
+                "href": "finnland.html",
+                "children": []
+              },
+              {
+                "label": "Estland / Lettland / Litauen",
+                "href": "estland-lettland-litauen.html",
+                "children": []
+              },
+              {
+                "label": "Polen",
+                "href": "polen.html",
+                "children": []
+              },
+              {
+                "label": "Tschechische Republik / Österreich / Deutschland / Schweiz",
+                "href": "tschechische-republik-oesterreich-deutschland-schweiz.html",
+                "children": []
+              },
+              {
+                "label": "Schlussbericht",
+                "href": "schlussbericht-1.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Vorbereitung",
+            "href": null,
+            "children": [
+              {
+                "label": "Planung und Vorbereitung",
+                "href": "planung-und-vorbereitung.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Videos",
+            "href": "videos.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "Südamerika 2015",
+        "href": null,
+        "children": [
+          {
+            "label": "Berichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Woche 26.01. - 01.02.",
+                "href": "woche-26-01-01-02.html",
+                "children": []
+              },
+              {
+                "label": "Woche 02.02. - 09.02.",
+                "href": "woche-02-02-09-02.html",
+                "children": []
+              },
+              {
+                "label": "Woche 09.02. - 15.02.",
+                "href": "woche-09-02-15-02.html",
+                "children": []
+              },
+              {
+                "label": "Woche 16.02. - 22.02.",
+                "href": "woche-16-02-22-02.html",
+                "children": []
+              },
+              {
+                "label": "Woche 23.02. - 01.03.",
+                "href": "woche-23-02-01-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 02.03 - 08.03.",
+                "href": "woche-02-03-08-03.html",
+                "children": []
+              },
+              {
+                "label": "Woche 09.03 - 15.03.",
+                "href": "woche-09-03-15-03.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Südamerika 2015",
+            "href": "suedamerika-2015.html",
+            "children": []
+          },
+          {
+            "label": "Vorbereitung",
+            "href": "vorbereitung-1.html",
+            "children": []
+          }
+        ]
+      },
+      {
+        "label": "PanAmericana 2012",
+        "href": null,
+        "children": [
+          {
+            "label": "Länderberichte",
+            "href": null,
+            "children": [
+              {
+                "label": "Alaska",
+                "href": "alaska.html",
+                "children": []
+              },
+              {
+                "label": "Kanada",
+                "href": "kanada.html",
+                "children": []
+              },
+              {
+                "label": "USA",
+                "href": "usa.html",
+                "children": []
+              },
+              {
+                "label": "Mexico",
+                "href": "mexico.html",
+                "children": []
+              },
+              {
+                "label": "Guatemala",
+                "href": "guatemala.html",
+                "children": []
+              },
+              {
+                "label": "Honduras",
+                "href": "honduras.html",
+                "children": []
+              },
+              {
+                "label": "El Salvador",
+                "href": "el-salvador.html",
+                "children": []
+              },
+              {
+                "label": "Nigaragua",
+                "href": "nigaragua.html",
+                "children": []
+              },
+              {
+                "label": "Costa Rica",
+                "href": "costa-rica.html",
+                "children": []
+              },
+              {
+                "label": "Panama",
+                "href": "panama.html",
+                "children": []
+              },
+              {
+                "label": "Kolumbien",
+                "href": "kolumbien.html",
+                "children": []
+              },
+              {
+                "label": "Ecuador",
+                "href": "ecuador.html",
+                "children": []
+              },
+              {
+                "label": "Peru",
+                "href": "peru.html",
+                "children": []
+              },
+              {
+                "label": "Bolivien",
+                "href": "bolivien.html",
+                "children": []
+              },
+              {
+                "label": "Chile",
+                "href": "chile.html",
+                "children": []
+              },
+              {
+                "label": "Argentinien",
+                "href": "argentinien.html",
+                "children": []
+              },
+              {
+                "label": "Schlussbericht",
+                "href": "schlussbericht.html",
+                "children": []
+              }
+            ]
+          },
+          {
+            "label": "Vorbereitung",
+            "href": "vorbereitung.html",
+            "children": []
+          },
+          {
+            "label": "Verlauf der Strecke",
+            "href": "verlauf-der-strecke.html",
+            "children": []
+          },
+          {
+            "label": "Video Clips",
+            "href": "video-clips.html",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Motogrüppli",
+    "href": null,
+    "children": [
+      {
+        "label": "Schwarzwald 2026",
+        "href": "schwarzwald-2026.html",
+        "children": []
+      },
+      {
+        "label": "Frankreich 2025",
+        "href": "frankreich-2025.html",
+        "children": []
+      },
+      {
+        "label": "Dolomiten 2025",
+        "href": "dolomiten-2025.html",
+        "children": []
+      },
+      {
+        "label": "Sardinien 2024",
+        "href": "sardinien-2024.html",
+        "children": []
+      },
+      {
+        "label": "Sizilien 2024",
+        "href": "sizilien-2024.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "Töfflibuebe vo Appäzöll",
+    "href": null,
+    "children": [
+      {
+        "label": "Pyrenäen 2023",
+        "href": "pyrenaeen-2023.html",
+        "children": []
+      },
+      {
+        "label": "Griechenland 2022",
+        "href": "griechenland-2022.html",
+        "children": []
+      },
+      {
+        "label": "Albanien 2022",
+        "href": "albanien-2022.html",
+        "children": []
+      },
+      {
+        "label": "Korsika 2021",
+        "href": "korsika-2021.html",
+        "children": []
+      },
+      {
+        "label": "Spanien 2021",
+        "href": "spanien-2021.html",
+        "children": []
+      },
+      {
+        "label": "Deutschland 2020",
+        "href": "deutschland-2020.html",
+        "children": []
+      },
+      {
+        "label": "Marokko 2019",
+        "href": "marokko-2019.html",
+        "children": []
+      },
+      {
+        "label": "Korsika 2017",
+        "href": "korsika-2017.html",
+        "children": []
+      },
+      {
+        "label": "Mallorca 2016",
+        "href": "mallorca-2016.html",
+        "children": []
+      },
+      {
+        "label": "Griechenland 2015",
+        "href": "griechenland-2015.html",
+        "children": []
+      },
+      {
+        "label": "Sardinien 2014",
+        "href": "sardinien-2014.html",
+        "children": []
+      },
+      {
+        "label": "Kroatien 2013",
+        "href": "kroatien-2013.html",
+        "children": []
+      },
+      {
+        "label": "Töfflibuebe",
+        "href": "toefflibuebe.html",
+        "children": []
+      }
+    ]
+  },
+  {
+    "label": "Meiertreffen",
+    "href": null,
+    "children": [
+      {
+        "label": "Meiertreffen 2022",
+        "href": "meiertreffen-2022.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2021",
+        "href": "meiertreffen-2021.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2020",
+        "href": "meiertreffen-2020.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2019",
+        "href": "meiertreffen-2019.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2018",
+        "href": "meiertreffen-2018.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2017",
+        "href": "meiertreffen-2017.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2016",
+        "href": "meiertreffen-2016.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2015",
+        "href": "meiertreffen-2015.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2013",
+        "href": "meiertreffen-2013.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2012",
+        "href": "meiertreffen-2012.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2007",
+        "href": "meiertreffen-2007.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2006",
+        "href": "meiertreffen-2006.html",
+        "children": []
+      },
+      {
+        "label": "Meiertreffen 2000",
+        "href": "meiertreffen-2000.html",
+        "children": []
+      },
+      {
+        "label": "Stammbaum",
+        "href": "stammbaum.html",
+        "children": []
+      }
+    ]
+  }
+]

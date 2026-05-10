@@ -1,0 +1,38 @@
+# Nuxt dev/build outputs
+.output
+.data
+.deploy
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+.vscode
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Local-only — Symlinks zu Bildbeständen ausserhalb des Repos.
+# Vor dem ersten Build manuell anlegen, siehe README.
+public/gallery
+public/thumbs
+
+# Erzeugte/abgeleitete Assets, werden per Build-Skript regeneriert.
+/thumbs/
+
+# Einmaliges Bootstrap-JSON aus dem alten X5-Auftritt. content/ ist ab jetzt
+# die kanonische Quelle für Inhalte und wird eingecheckt.
+/data/

@@ -1,0 +1,26 @@
+# Caddy config for the Nuxt-generated preview.
+# Public preview — no auth. X-Robots-Tag noindex tells search engines to skip
+# this URL (gemsle.ch remains the canonical site).
+:80 {
+	root * /srv
+
+	encode zstd gzip
+
+	header X-Robots-Tag "noindex, nofollow"
+
+	# Static assets — long cache
+	@assets path *.webp *.jpg *.jpeg *.png *.gif *.svg *.css *.js *.woff2
+	header @assets Cache-Control "public, max-age=2592000, immutable"
+
+	# HTML revalidates quickly
+	@html path *.html /
+	header @html Cache-Control "no-cache"
+
+	# Nuxt generates each page as <slug>/index.html — Caddy serves index files
+	# automatically when a directory matches.
+	try_files {path} {path}/ {path}.html /200.html
+
+	file_server {
+		precompressed gzip
+	}
+}
